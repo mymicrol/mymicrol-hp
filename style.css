@@ -1,0 +1,17 @@
+html {
+    background-color: #d6c6af;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: lightblue;
+}
+
+.hooter {
+    margin-top: 50px;
+    text-align: right;
+    background-color: lightgreen;
+    padding-bottom: 60px;
+}
