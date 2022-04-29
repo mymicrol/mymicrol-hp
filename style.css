@@ -1,17 +1,32 @@
-html {
-    background-color: #d6c6af;
+body    {
+    padding: 0;
+}
+
+html    {
+    background-color: lightgoldenrodyellow;
 }
 
 .header {
+    border-radius: 0px 0px 20px 20px;
     text-align: center;
     font-size: 30px;
     color: white;
     background-color: lightblue;
 }
 
+.side   {
+    display: inline-block;
+}
+
 .hooter {
+    border-radius: 20px 20px 0px 0px;
     margin-top: 50px;
     text-align: right;
     background-color: lightgreen;
     padding-bottom: 60px;
+}
+
+.hooter-text {
+    padding-top: 10px;
+    padding-right: 30px;
 }
